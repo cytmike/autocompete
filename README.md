@@ -4,4 +4,4 @@ Compile:
 g++ {filename}
 
 Run:
-cat {input file} | ./a.out
+cat input | ./a.out
